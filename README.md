@@ -20,3 +20,10 @@ When I open a web page, I see the code behind it.
 I love magic.
 
 Life is beautiful.
+
+
+Life is magic
+
+migic is juste github
+
+git is not git but use git
