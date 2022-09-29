@@ -1,2 +1,4 @@
 # Exercice-Cadavre-Exquis-Jerome
-BeCode Markdown exercise
+
+
+# Life as a Developer
