@@ -11,3 +11,8 @@ That was my life until i met Nick, i called him the english guy.
 so, i learn a tech talk.
 I promme in javascript because i prefer front end.
 I work my life!
+
+
+When I open a web page, I see the code behind it.
+
+ I find it magical.
