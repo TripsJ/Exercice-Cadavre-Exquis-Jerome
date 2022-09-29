@@ -31,3 +31,9 @@ git is not git but use git
 No I hate git! I am lost!
 
 Welcome in the jungle...
+
+There are many animals
+
+Some are meaner than others
+
+THEY BITE
