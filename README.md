@@ -27,3 +27,7 @@ Life is magic
 migic is juste github
 
 git is not git but use git
+
+No I hate git! I am lost!
+
+Welcome in the jungle...
