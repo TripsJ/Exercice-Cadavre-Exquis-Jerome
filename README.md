@@ -8,14 +8,14 @@ That was my life until i met Nick, i called him the english guy.
 
 
 
-so, i learn a tech talk.
-I promme in javascript because i prefer front end.
-I work my life!
+so, i learned about tech talks.
+I prefere javascript because i prefere front end.
+I work my all life!
 
 
 When I open a web page, I see the code behind it.
 
- I find it magical.
+I find it magical.
 
 I love magic.
 
@@ -24,7 +24,7 @@ Life is beautiful.
 
 Life is magic
 
-migic is juste github
+magic is just github
 
 git is not git but use git
 
