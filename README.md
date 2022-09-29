@@ -16,3 +16,7 @@ I work my life!
 When I open a web page, I see the code behind it.
 
  I find it magical.
+
+I love magic.
+
+Life is beautiful.
